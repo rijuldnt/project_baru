@@ -514,3 +514,41 @@
   display: flex;
   margin-left: 900px;
 }
+
+.banner-as {
+  width: 100%;
+  margin-top: 150px;
+}
+
+.container-hal-as-atas {
+  display: flex;
+  margin-top: 100px;
+}
+
+.img-hal-as1 {
+  margin-left: 40px;
+}
+
+.tulisan-hal-as {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  justify-content: space-evenly;
+}
+
+.h1-hal-as {
+  color: #0E7386;
+  font-size: 90px;
+  font-weight: 800;
+  margin-top: -15px;
+  margin-bottom: -15px;
+}
+
+.container-hal-as-bawah {
+  display: flex;
+  margin-top: 20px;
+}
+
+.img-hal-as2 {
+  margin-left: 190px;
+}
