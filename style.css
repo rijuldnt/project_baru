@@ -552,3 +552,90 @@
 .img-hal-as2 {
   margin-left: 190px;
 }
+
+.banner-oh {
+  margin-top: 150px;
+  width: 100%;
+}
+
+.container-hal-oh {
+  margin-top: 100px;
+  display: flex;
+  width: 100%;
+}
+
+.bag-kiri-hal-oh {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+}
+
+.btn-dl {
+  background-color: #0E7386;
+  width: 440px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: #ffffff;
+  border-radius: 10px;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.btn-dl-outline {
+  background-color: #F6FEFF;
+  border: 3px solid;
+  border-color: #0E7386;
+  width: 440px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: #0E7386;
+  border-radius: 10px;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.bag-dokter-oh {
+  width: 440px;
+  height: 397px;
+  border-radius: 10px;
+  background-color: #F6FEFF;
+  margin-top: 20px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
+-webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
+-moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
+}
+
+.img-dokter-oh {
+  margin-top: 40px;
+  margin-left: 97px;
+}
+
+.tulisan-oh {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+}
+
+.h1-oh {
+  color: #0E7386;
+  font-size: 90px;
+  font-weight: 800;
+}
+
+.h1-hal-oh {
+  color: #0E7386;
+  font-size: 48px;
+  font-weight: 800;
+}
+
+.p-hal-oh {
+  color: #0E7386;
+  font-size: 28px;
+  line-height: 1;
+}
