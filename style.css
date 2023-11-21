@@ -23,6 +23,12 @@
 -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
 }
 
+.toogle-navbar {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
 .logo {
   display: flex;
   align-items: center;
@@ -638,4 +644,71 @@
   color: #0E7386;
   font-size: 28px;
   line-height: 1;
+}
+
+.btn-dl-outline:hover {
+  background-color: #0E7386;
+  color: #ffffff;
+}
+
+.btn-dl:hover {
+  font-size: 36px;
+  transition: 0.1s linear;
+}
+
+.btn-nav {
+  background-color: #0E7386;
+  width: 240px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: #ffffff;
+  border-radius: 10px;
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 11.5px;
+}
+
+.btn-nav:hover {
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
+-webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
+-moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
+}
+
+.btn-bag-book {
+  background-color: #ffffff;
+  width: 267px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: #0E7386;
+  border-radius: 10px;
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 100px;
+}
+
+.btn-bag-book:hover {
+  box-shadow: 0px 0px 10px 0px rgba(255,255,255,0.3);
+-webkit-box-shadow: 0px 0px 10px 0px rgba(255,255,255,0.3);
+-moz-box-shadow: 0px 0px 10px 0px rgba(255,255,255,0.3);
+}
+
+.btn-as {
+  background-color: #0E7386;
+  width: 240px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: #ffffff;
+  border-radius: 10px;
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: -10px;
 }
